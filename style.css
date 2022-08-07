@@ -1,3 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mukta+Malar&display=swap");
+
+body {
+  background-image:url("infinite diabolo banner.png");
+  text-align: center;
+  color: mediumvioletred;
+}
 .intro {
 	text-align: center;
 }
@@ -37,7 +44,7 @@ a{
 /*css formatting
 /* apply a google font from fonts.google.com */
 /* let us know if you want to learn to do this (or anything else in CSS) */
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mukta+Malar&display=swap");
+
 ​
 /* generic styling */
 body {
